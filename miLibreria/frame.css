@@ -1,0 +1,11 @@
+.card{
+    background-color: rgb(231, 231, 231);
+    padding: 20px;
+    border: 2px solid gray;
+    box-shadow: 10px 5px  5px rgba(101, 101, 101, 0.411);
+}
+
+.txt{
+    font-size: 100px;
+    color: white;
+}
